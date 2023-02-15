@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763593262505",
+    "project_id": "nectardating-1fc35",
+    "storage_bucket": "nectardating-1fc35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763593262505:android:59ee2fcc4a1276db1ab0b8",
+        "android_client_info": {
+          "package_name": "com.example.nectar_dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763593262505-jvjgj99kdri5vodr39uif92rb6fh00if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzvGCiF7QWaV7rZoHl3ZEI7gS6HNU92Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763593262505-jvjgj99kdri5vodr39uif92rb6fh00if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
